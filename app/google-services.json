@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276419617496",
+    "firebase_url": "https://faertest-14808.firebaseio.com",
+    "project_id": "faertest-14808",
+    "storage_bucket": "faertest-14808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276419617496:android:8dcc03dee6e3f37b1b6dad",
+        "android_client_info": {
+          "package_name": "com.example.faerbasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276419617496-k3emen579dln6src2879h56q7vef4o69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.faerbasetest",
+            "certificate_hash": "4fbbdf5f3fece48e2fb8c83334a485dd6b5ded2e"
+          }
+        },
+        {
+          "client_id": "276419617496-s57a74400outa2jobh9j9vj51dq43itp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGfgkb-2RJH3kRq3ZpsYayieVzCeR4PyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276419617496-s57a74400outa2jobh9j9vj51dq43itp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
